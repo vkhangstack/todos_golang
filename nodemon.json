@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "ignore": ["*.test.js"],
+  "watch": ["module/**/*", "main.go"],
+  "ext": "json"
+}
