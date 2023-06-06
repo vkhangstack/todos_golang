@@ -16,3 +16,4 @@ app
 # vendor/
 
 .vscode
+.env
